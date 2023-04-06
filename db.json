@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Ponniyin Selvan",
+      "author": "Kalki"
+    },
+    {
+      "title": "Lal Salam",
+      "author": "Smriti Irani",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Home in the World",
+      "author": "Amartya Sen"
+    },
+    {
+      "id": 4,
+      "title": "Mokfit",
+      "author": "ledger"
+    }
+  ]
+}
